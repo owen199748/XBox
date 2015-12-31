@@ -1,0 +1,9 @@
+name: Xbox
+main: cn.rpgmc.xbox.main.Main
+version: 2.0.0
+commands:
+  Xbox:
+    description: by owen
+    usage: §c[Xbox]§5参数错误,您可以使用/Xbox help命令排查错误.
+    permission: Xbox
+    permission-message: §c[Xbox]§5您没有<Xbox>权限
