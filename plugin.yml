@@ -1,5 +1,5 @@
 name: Xbox
-main: cn.rpgmc.xbox.main.Main
+main: pw.owen.xbox.main.Main
 version: 2.0.0
 commands:
   Xbox:

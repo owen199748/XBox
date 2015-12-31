@@ -1,4 +1,4 @@
-package cn.rpgmc.xbox.main;
+package pw.owen.xbox.main;
 
 import org.bukkit.Material;
 import org.bukkit.command.Command;

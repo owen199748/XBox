@@ -1,4 +1,4 @@
-package cn.rpgmc.xbox.main;
+package pw.owen.xbox.main;
 
 import java.util.ArrayList;
 import java.util.Arrays;
